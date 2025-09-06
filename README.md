@@ -1,6 +1,6 @@
-## 👋🏼 Olá, eu sou a Marcela! 🤍
+## Olá, eu sou a Marcela! 🤍
 
-##  Sobre mim
+## 👋🏼 Sobre mim
 - 👩🏼‍💻 Trabalho com dados desde 2019 e tenho experiência com análise exploratória, dashboards e automações.
 - 💡 Amo interpretar dados brutos e transformá-los em insights simples, úteis e fáceis de aplicar na tomada de decisão.
 - 📌 Busco sempre a melhoria de processos, conectar diferentes áreas, entregar resultados que façam diferença e possam ser mensurados.
@@ -24,4 +24,5 @@
 </div>
 
 
-⭐️ Feito com dedicação!
+
+⭐️ Feito com dedicação por Marcela Payão
