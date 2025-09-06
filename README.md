@@ -22,7 +22,3 @@
   <img align="center" alt="R" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
   <img align="center" alt="Tableau" height="40" width="50" src="https://img.icons8.com/color/48/tableau-software.png">
 </div>
-
-
-
-⭐️ Feito com dedicação por Marcela Payão
