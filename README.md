@@ -1,4 +1,4 @@
-## Olá, eu sou a Marcela! 🤍
+## Oiii, eu sou a Marcela! 🤍
 
 ## 👋🏼 Sobre mim
 - 👩🏼‍💻 Trabalho com dados desde 2019 e tenho experiência com análise exploratória, dashboards e automações.
