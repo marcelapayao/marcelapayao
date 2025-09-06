@@ -15,11 +15,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelapayao&layout=compact&theme=radical)
 
-
-https://github-readme-pacman.vercel.app/api?username=marcelapayao&theme=dark
-
-###
-
 ## 🚀 Tecnologias que uso/estudo
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
